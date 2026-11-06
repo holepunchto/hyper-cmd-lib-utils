@@ -1,10 +1,9 @@
 {
   "name": "hyper-cmd-lib-utils",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "HyperCmd Utils lib",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
